@@ -48,3 +48,12 @@ Follow these steps to run the project locally:
 |       Connection Status        |       Search by Country        |
 |:------------------------------:|:------------------------------:|
 | <img src="screenshots/4.png" width="280"> | <img src="screenshots/5.png" width="280"> |
+
+
+
+📄 License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code
+
+
+Developed with ❤️ by MORY65
