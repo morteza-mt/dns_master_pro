@@ -1,5 +1,6 @@
 # 🛡️ DNS Master Pro
 > **A Smart, High-Performance DNS Explorer & Changer for Android.**
+[![Download APK](https://img.shields.io/badge/Download-APK-cyan?style=for-the-badge&logo=android)](https://github.com/morteza-mt/dns_master_pro/releases/latest)
 
 DNS Master Pro is a modern tool built with Flutter that allows users to discover, benchmark, and apply the fastest DNS servers globally. It features a unique "Smart Finder" to scan DNS servers by country and measure real-time latency.
 
